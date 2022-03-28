@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationNotesApp</string>
+    <string name="notHaveAnyNotes">notHaveAnyNotes</string>
+</resources>

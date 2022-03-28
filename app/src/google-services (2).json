@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "624478791170",
+    "project_id": "locationnameapp",
+    "storage_bucket": "locationnameapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624478791170:android:c24db08706e9791a3ca91b",
+        "android_client_info": {
+          "package_name": "com.example.LocationNotesApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624478791170-ganuf774vuqkhldpqcqv1flpnq2ooepe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_nnDkoHfusGPgsUy7f5K4EwAhVX6vx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624478791170-ganuf774vuqkhldpqcqv1flpnq2ooepe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624478791170-f7h3crsnlhlt2urj7t7v5md6hoj7k95j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "2666-e380"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
