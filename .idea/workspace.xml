@@ -6,10 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e10ad9eb-2e1c-4a0a-9a02-3f647793f052" name="Default Changelist" comment="My app by Sapir">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e10ad9eb-2e1c-4a0a-9a02-3f647793f052" name="Default Changelist" comment="My app by Sapir" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,10 +202,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="438" y="83" key="AndroidProcessChooserDialog/0.0.1280.672@0.0.1280.672" timestamp="1648389885138" />
-    <state x="420" y="78" key="FileChooserDialogImpl" timestamp="1648459465382">
+    <state x="420" y="78" key="FileChooserDialogImpl" timestamp="1648471138292">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="420" y="78" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1648459465382" />
+    <state x="420" y="78" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1648471138292" />
     <state x="498" y="235" width="285" height="275" key="Github.ShareDialog" timestamp="1648470121992">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -265,6 +262,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="204" y="66" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.672@0.0.1280.672" timestamp="1648403084896" />
+    <state x="392" y="208" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1648471171450">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="392" y="208" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.672@0.0.1280.672" timestamp="1648471171450" />
     <state x="348" y="94" key="refactoring.ChangeSignatureDialog" timestamp="1648393143192">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
