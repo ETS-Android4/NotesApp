@@ -2,7 +2,7 @@
  Project
 android studio
 
-<!---
+
 Notes app with user connection.
 The application opens at the entrance with the option to register, if necessary, then a logout button and navigation bar.
 In addition, on the main screen there is another button for adding a new note. 
